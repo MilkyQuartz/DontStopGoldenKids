@@ -44,5 +44,5 @@
 플레이어가 캐릭터를 선택하여 변경할 수 있습니다.
 
 ## 📌 기능 영상 
-#### 지금은 영상링크가 아닌 임시 이미지입니다.
-![스크린샷 2024-06-10 221452](https://github.com/peterbae9327/DontStopGoldenKids/assets/141620531/36afcff2-29a3-4307-8140-ad3a9d4e352c)
+#### 이미지를 클릭하시면 영상 링크로 이동됩니다.
+[![IntroImgFix](https://github.com/peterbae9327/DontStopGoldenKids/assets/141620531/b81336f7-09f9-4522-9334-147793a2afc5)](https://www.youtube.com/watch?v=UCPwZUFWAc8)
